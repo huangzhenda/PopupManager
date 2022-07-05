@@ -99,6 +99,7 @@
 		DD5ECE2D2873D2E300662E49 /* PopupManagerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				DD5ECE5E2873D97600662E49 /* PopupManager */,
 				DD5ECE2E2873D2E300662E49 /* AppDelegate.swift */,
 				DD5ECE302873D2E300662E49 /* SceneDelegate.swift */,
 				DD5ECE322873D2E300662E49 /* ViewController.swift */,
@@ -125,6 +126,13 @@
 				DD5ECE512873D2E500662E49 /* PopupManagerDemoUITestsLaunchTests.swift */,
 			);
 			path = PopupManagerDemoUITests;
+			sourceTree = "<group>";
+		};
+		DD5ECE5E2873D97600662E49 /* PopupManager */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = PopupManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
